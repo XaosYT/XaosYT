@@ -2,4 +2,4 @@
 - 👀 I’m interested in web developement and software engineering
 - 🌱 I’m currently learning JavaScript (I know the basics but not using classes)
 - 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me add my Discord YT_Xaos#4659
+- 📫 How to reach me add my Discord YT_Xaos#4958
