@@ -1,5 +1,5 @@
 - 👋 Hi, I’m YT_Xaos
 - 👀 I’m interested in web developement and software engineering
-- 🌱 I’m currently learning JavaScript (I know the basics but not using classes)
+- 🌱 Currently learning PHP
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me add my Discord YT_Xaos#4958
